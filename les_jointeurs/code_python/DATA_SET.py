@@ -44,6 +44,7 @@ colonnes_emploi = ['ID Commune', 'Année', 'Population Active',
                  '% Chômage']
 df_emploi = df_emploi_full[colonnes_emploi].copy()
 
+
 # === RENOMMAGE PROFESSIONNEL DES COLONNES ===
 print("🏷️ Renommage professionnel des colonnes...")
 
